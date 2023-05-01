@@ -1,27 +1,28 @@
 {title:Across the Universe}
 {st:Lennon/McCartney}
+{key:C}
 {define: Em7/A 1 0 3 0 2 0 0}
 
-[D]Words are flowing out like endless [F#m]rain into a paper cup
-They [Em7]slither while they pass they slip [A]away across the Uni[A7]verse.
-[D]Pools of sorrow, waves of joy are [F#m]drifting through my opened mind
-Pos[Em7]sessing and car[Gm]essing me
+[C]Words are flowing out like endless [Em]rain into a paper cup
+They [Dm7]slither while they pass they slip [G]away across the Uni[G7]verse.
+[C]Pools of sorrow, waves of joy are [Em]drifting through my opened mind
+Pos[Dm7]sessing and car[Fm]essing me
 
 {c:Chorus}
-     [D]Jai Guru Deva [Em7/A]Om [A7]nothing's gonna change my world,
-     [G]Nothing's gonna change my world, [A7]nothing's gonna change my world,
-     [G]Nothing's gonna change my [D]world
+     [C]Jai Guru Deva [Dm7/G]Om [G7]nothing's gonna change my world,
+     [F]Nothing's gonna change my world, [G7]nothing's gonna change my world,
+     [F]Nothing's gonna change my [C]world
 
-[D]Images of broken light which [F#m]dance before me like a million [Em7]eyes
-They call me on and on [A]across the Uni[A7]verse.
-[D]Thoughts meander like a restless [F#m]wind inside a letterbox
-They [Em7]tumble blindly as they make their [A]way across the Uni[A7]verse.
+[C]Images of broken light which [Em]dance before me like a million [Dm7]eyes
+They call me on and on [G]across the Uni[G7]verse.
+[C]Thoughts meander like a restless [Em]wind inside a letterbox
+They [Dm7]tumble blindly as they make their [G]way across the Uni[G7]verse.
 
 {c:Chorus}
 
-[D]Sounds of laughter, shades of joy are [F#m]ringing through my opened ears
-In[Em7]citing and in[A]viting [A7]me.
-[D]Limitless undying love which [F#m]shines around me like a million [Em7]suns
-And calls me on and on a[A]cross the Uni[A7]verse
+[C]Sounds of laughter, shades of joy are [Em]ringing through my opened ears
+In[Dm7]citing and in[G]viting [G7]me.
+[C]Limitless undying love which [Em]shines around me like a million [Dm7]suns
+And calls me on and on a[G]cross the Uni[G7]verse
 
 {c:Chorus}
