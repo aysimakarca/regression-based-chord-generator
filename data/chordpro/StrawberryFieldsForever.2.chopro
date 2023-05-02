@@ -3,11 +3,12 @@
 {define: Em/D 1 0 0 0 0 -1 -1}
 {define: Bdim7 1 1 0 1 0 -1 -1}
  
-{c:Chorus}
+{soc}
       [G] Let me take you down cause I'm going to [Dm7] strawberry fields.
       [Bdim7] Nothing is real.
       And no[C]thing to get hu[E]ng about
       [Cmaj7]Strawberry fields for[G]ever
+{eoc}
  
 [D]Living is [Dmaj7]easy with [D7]eyes closed [Em]misundersta[Em/D]nding all you [C]see
 It's getting [D7]hard to be some[G]one, but it all works [Em]out
